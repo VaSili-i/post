@@ -1,0 +1,13 @@
+.containerForm{
+	margin: 5px;
+	border: outset 2px;
+}
+
+.inputForm{
+	box-sizing: border-box;
+	margin:5px;
+
+	height: 35px;
+	border: 2px inset;
+}
+

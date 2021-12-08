@@ -1,0 +1,6 @@
+.box{
+	position: fixed;
+	left: 50%;
+	top: 50%;
+	border: solid 1px teal;
+}
